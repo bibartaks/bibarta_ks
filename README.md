@@ -1,6 +1,6 @@
-Hi there I am Bibarta
+#Hi there I am Bibarta
 
-I am a Frontend Developer working remotely
+I am a Frontend Developer
 
 BIO
 ⚙️ I use daily: HTML, CSS, SASS, Javascript, React, Firebase, Git & Figma
