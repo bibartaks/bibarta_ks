@@ -1,6 +1,6 @@
 # Hi there I am Bibarta 👋
 
-## I'm a passionate and driven 14-year-old front-end developer. With a natural talent for programming and a love for artistic expression, I create beautiful and user-friendly interfaces that seamlessly blend creativity and technical expertise.
+#### I'm a passionate and driven 14-year-old front-end developer. With a natural talent for programming and a love for artistic expression, I create beautiful and user-friendly interfaces that seamlessly blend creativity and technical expertise.
 
 ### BIO
 - ⚙️ My Skills: `HTML`, `CSS`, `SASS`, `Bootstrap`, `Javascript`, `React`, `React Router`, `Vite`, `Firebase`, `Git` & `Figma`
