@@ -20,7 +20,7 @@
 
 
 ##  🧑‍💻 Technologies & Tools I Use:
-[![My Skills](https://skills.thijs.gg/icons?i=html,css,sass,mui,js,react,firebase,git,github,netlify,vercel,figma,linux,bash,vscode,vite&theme=light )](https://skills.thijs.gg)
+- `HTML`, `CSS`, `SASS`, `Material Ui`, `JavaScript`, `React`, `React Router`, `FireBase`, `GIT`, `Github`, `Vite`, `Netlify`, `Vercel`, `Linux`, `Terminal`, `Figma`
 
 ## 🌱 I'm currently learning
 
