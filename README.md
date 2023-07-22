@@ -6,7 +6,7 @@
 
 <h3>Connect with me:</h3>
 
-[![SkillIcons](https://skillicons.dev/icons?i=js,ts,html,css,nodejs,py,tailwind,vue,nuxt,mongodb,prisma,docker,figma)](https://skillicons.dev)<br/>
+[![SkillIcons](https://skillicons.dev/icons?i=linkedin)](https://skillicons.dev)<br/>
 
 
 
