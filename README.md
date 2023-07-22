@@ -28,7 +28,6 @@ A 14-year-old front-end developer. Starting at age 10 as a self-taught programme
 [![React Router](https://img.shields.io/badge/React%20Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)](https://reactrouter.com/)
 [![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)](https://firebase.google.com/)
 [![GIT](https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?s![Hi there, I'm (1)](https://github.com/bibartaks/bibartaks/assets/106395132/0bb4a98f-f2db-47c4-a8d9-fe902cb8253d)
 tyle=for-the-badge&logo=github&logoColor=white)](https://github.com/)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
