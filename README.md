@@ -26,7 +26,7 @@
 ![GIT](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git&logoColor=red)
 
 ##  🧑‍💻 Skills:
-[![My Skills](https://skills.thijs.gg/icons?i=html,css,sass,mui,js,react,firebase,git,github,netlify,vercel,figma,linux,bash,vscode,vite&perline=3 )](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=html,css,sass,mui,js,react,firebase,git,github,netlify,vercel,figma,linux,bash,vscode,vite&perline=10 )](https://skills.thijs.gg)
 
 ## 🌱 I'm currently learning
 
