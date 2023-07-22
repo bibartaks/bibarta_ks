@@ -1,4 +1,5 @@
-![Untitled design (27) (1)](https://github.com/bibartaks/bibartaks/assets/106395132/b43824db-2d61-4a81-8a1f-e9ea697249b3)
+
+<img width=”200" height=”200" src=”https://github.com/bibartaks/bibartaks/assets/106395132/b43824db-2d61-4a81-8a1f-e9ea697249b3" alt=”my banner”>
 
 # Hi there I am Bibarta 👋
 
