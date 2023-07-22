@@ -21,3 +21,8 @@
 ![Firebase](https://img.shields.io/badge/Firebase-FFCB2B?style=for-the-badge&logo=firebase&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-green?style=for-the-badge&logo=figma&logoColor=white)
 ![GIT](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git&logoColor=red)
+
+## 🌱 I'm currently learning
+
+- TypeScript
+- Nextjs  
