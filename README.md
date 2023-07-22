@@ -43,6 +43,7 @@ A 14-year-old front-end developer. Starting at age 10 as a self-taught programme
 
 - TypeScript
 - Nextjs
+- Supabase
 
 ## 🔭 I'm currently working on
 
