@@ -1,4 +1,4 @@
-![Hi there, I'm](https://github.com/bibartaks/bibartaks/assets/106395132/86c22aae-b757-497f-83ee-39ea2091c73f)
+![Hi there, I'm (1)](https://github.com/bibartaks/bibartaks/assets/106395132/3902f742-c480-4534-afb4-fde8f051d26b)
 
 ## 🧑‍💻 About Me
 A 14-year-old front-end developer. Starting at age 10 as a self-taught programmer, I quickly captured my father's attention, who enrolled me in a prestigious online platform for learning code. Later Scholarships from various world-leading developer platforms soon followed. My mother often says I had a keen interest in drawing & playing games. And so, she bought me a tablet to fuel my artistic spirit. As a front-end developer, I enjoy combining artistic flair with technical expertise to create captivating and user-friendly interfaces. With the latest web technologies and a dedication to staying up-to-date with the ever-evolving industry trends, I can ensure my work remains at the forefront of innovation. I’ve been honing my skills daily and learning HTML, CSS, JavaScript, React, and other frameworks. Recently I've successfully completed another advanced frontend development course under Scrimba. I’m seeking a full-time role where I can help a company achieve its goals. Beyond coding, Cricket has been a cherished pastime for me since an early age. As a valuable team member, I have actively participated in various age-based domestic district cricket tournaments. Additionally, my love for animals shines through, as I find solace and joy in petting and caring for them.
@@ -28,7 +28,8 @@ A 14-year-old front-end developer. Starting at age 10 as a self-taught programme
 [![React Router](https://img.shields.io/badge/React%20Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)](https://reactrouter.com/)
 [![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)](https://firebase.google.com/)
 [![GIT](https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?s![Hi there, I'm (1)](https://github.com/bibartaks/bibartaks/assets/106395132/0bb4a98f-f2db-47c4-a8d9-fe902cb8253d)
+tyle=for-the-badge&logo=github&logoColor=white)](https://github.com/)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
