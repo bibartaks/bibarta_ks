@@ -1,4 +1,4 @@
-![bibartaks_banner](https://github.com/bibartaks/bibartaks/assets/106395132/02394ef2-0720-4e04-8e2b-ded0a0ac3455)
+![Frontend Developer (10)](https://github.com/bibartaks/bibartaks/assets/106395132/07720424-329b-4de0-87b7-7381244b7f8c)
 
 # Hi there I am Bibarta 👋
 
