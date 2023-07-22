@@ -18,3 +18,4 @@
 ![ReactRouter](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
 ![Netlify](https://img.shields.io/badge/Netlify-32E6E2?style=for-the-badge&logo=netlify&logoColor=black)
 ![Vercel](https://img.shields.io/badge/Vercel-white?style=for-the-badge&logo=vercel&logoColor=black)
+![Firebase](https://img.shields.io/badge/Firebase-FFCB2B?style=for-the-badge&logo=firebase&logoColor=white)
