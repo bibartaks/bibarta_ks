@@ -8,11 +8,6 @@
 
 [![SkillIcons](https://skillicons.dev/icons?i=linkedin,twitter,discord)](https://skillicons.dev)<br/>
 
-[![LinkedIn](https://skillicons.dev/icons/linkedin)](https://www.linkedin.com/in/yushi95/)
-&nbsp;&nbsp;&nbsp;
-[![Twitter](https://skillicons.dev/icons/twitter)](https://twitter.com/your_twitter_username)
-&nbsp;&nbsp;&nbsp;
-[![Discord](https://skillicons.dev/icons/discord)](https://discord.com/your_discord_username)
 
 
 
