@@ -12,6 +12,7 @@
 
 ## 🤝Connect with me:
 - 💬 If you have any questions/feedback, please do not hesitate to contact me!
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-profile-url/)
 - ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![SASS](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
@@ -30,7 +31,7 @@
 
 ## 🌱 I'm currently learning
 
-- TypeScript  <span>[![My Skills](https://skills.thijs.gg/icons?i=nextjs)](https://skills.thijs.gg)</span>
+- TypeScript
 - Nextjs  
 
 ## 🔭 I'm currently working on
