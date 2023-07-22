@@ -1,4 +1,3 @@
-<img src=”Unitiled design (27).png" alt=”my banner”>
 
 # Hi there I am Bibarta 👋
 
