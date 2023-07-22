@@ -13,18 +13,9 @@
 ## 🤝Connect with me:
 - 💬 If you have any questions/feedback, please do not hesitate to contact me!
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-profile-url/)
-- ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![SASS](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
-![MUI](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=mui&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![ReactRouter](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-32E6E2?style=for-the-badge&logo=netlify&logoColor=black)
-![Vercel](https://img.shields.io/badge/Vercel-white?style=for-the-badge&logo=vercel&logoColor=black)
-![Firebase](https://img.shields.io/badge/Firebase-FFCB2B?style=for-the-badge&logo=firebase&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-green?style=for-the-badge&logo=figma&logoColor=white)
-![GIT](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git&logoColor=red)
+- [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/your-handle)
+- [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/your-profile-url)
+
 
 ##  🧑‍💻 Skills:
 [![My Skills](https://skills.thijs.gg/icons?i=html,css,sass,mui,js,react,firebase,git,github,netlify,vercel,figma,linux,bash,vscode,vite&theme=light )](https://skills.thijs.gg)
