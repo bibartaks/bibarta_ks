@@ -9,4 +9,4 @@
 - 🔗 https://www.linkedin.com/in/bibartaks/
 - 📫 Feel free to contact me through my LinkedIn profile or connect with me using the link above. Let's collaborate and create amazing web experiences together!
 - ⚡️ Fun fact about me: When I'm not coding, I enjoy playing cricket. It's a sport I love and find great joy in.
-[![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=yushi1007)](https://github.com/yushi1007)
+[![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=bibartaks)](https://github.com/yushi1007)
