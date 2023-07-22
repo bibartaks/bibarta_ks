@@ -13,22 +13,4 @@
   `git` & `figma`
 
 
-- ⚡️ Fun fact about me: When I'm not coding, I enjoy playing cricket. It's a sport I love and find great joy in.
-[![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=bibartaks)](https://github.com/yushi1007)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bibartaks)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bibartaks&layout=compact)](https://github.com/yushi1007)
-
-
-
-
-
-
-
-<details>
-  <summary>Github Stats ⚡</summary>
-  
-  <a href="#">![Github stats](https://github-readme-stats.vercel.app/api?username=nasimuddin01&theme=blueberry&count_private=true&hide_border=true&line_height=20)</a>
-  <a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tandpfun&layout=compact&theme=blueberry&count_private=true&hide_border=true)</a>
-</details>
