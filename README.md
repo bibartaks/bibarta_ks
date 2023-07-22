@@ -24,8 +24,8 @@
 
 ## 🌱 I'm currently learning
 
-- TypeScript
-- Nextjs  
+- `TypeScript`
+- `Nextjs`  
 
 ## 🔭 I'm currently working on
 
