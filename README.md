@@ -12,3 +12,5 @@
 [![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=bibartaks)](https://github.com/yushi1007)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bibartaks)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bibartaks&layout=compact)](https://github.com/yushi1007)
