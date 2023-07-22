@@ -9,8 +9,8 @@
 [![SkillIcons](https://skillicons.dev/icons?i=linkedin,twitter,discord)](https://skillicons.dev)<br/>
 
 <h3>Skills:</h3>
-<p>- ⚙️ I use daily: `HTML`, `CSS`, `Javascript`, `Vue.js`, `Nuxt.js`, `Nodejs`, `Firebase`, `Mongodb`, `Postgres`, `GCP`, `git` & `figma`
-</p>
+##- ⚙️ I use daily: `HTML`, `CSS`, `Javascript`, `Vue.js`, `Nuxt.js`, `Nodejs`, `Firebase`, `Mongodb`, `Postgres`, `GCP`, `git` & `figma`
+
 
 
 
