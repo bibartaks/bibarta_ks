@@ -6,12 +6,8 @@
 
 <h3>Connect with me:</h3>
 <a href="https://www.linkedin.com/in/yushi95/">
-  <img align="left" src="./Linkedin.svg" alt="icon | LinkedIn" width="21px"/>
+  <img align="left" src="./Linkedin.svg"/>
 </a>
-With this code, the "Linkedin.svg" image will be displayed as an icon in your README file, and when users click on the icon, it will take them to the LinkedIn profile specified in the href attribute.
-
-Make sure that the filename is exactly "Linkedin.svg" (case-sensitive) and that the file extension is correct (.svg). Also, ensure there are no typos or special characters in the file name or the HTML code. Once you have this code in your README file, GitHub should render the icon correctly.
-
 
 
 
