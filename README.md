@@ -30,7 +30,7 @@
 
 ## 🌱 I'm currently learning
 
-- TypeScript[![My Skills](https://skills.thijs.gg/icons?i=nextjs)](https://skills.thijs.gg)
+- TypeScript  <span>[![My Skills](https://skills.thijs.gg/icons?i=nextjs)](https://skills.thijs.gg)</span>
 - Nextjs  
 
 ## 🔭 I'm currently working on
