@@ -19,8 +19,43 @@
   [![Email](https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
 
 
-##  🧑‍💻 Technologies & Tools I Use:
-HTML, CSS, SASS, Material UI, JavaScript, React, React Router, Firebase, Git, GitHub, Vite, Netlify, Vercel, Linux, Terminal, Figma, VS Code
+## 🧑‍💻 Technologies & Tools I Use:
+
+- Frontend: 
+  <img src="https://img.icons8.com/color/48/000000/html-5--v1.png" alt="HTML" width="24" height="24"/>
+  <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS" width="24" height="24"/>
+  <img src="https://img.icons8.com/color/48/000000/sass.png" alt="SASS" width="24" height="24"/>
+  <img src="https://img.icons8.com/color/48/000000/material-ui.png" alt="Material UI" width="24" height="24"/>
+  <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" width="24" height="24"/>
+  <img src="https://img.icons8.com/color/48/000000/react-native.png" alt="React" width="24" height="24"/>
+  <img src="https://img.icons8.com/color/48/000000/react-native.png" alt="React Router" width="24" height="24"/>
+
+- Backend: 
+  <img src="https://img.icons8.com/color/48/000000/firebase.png" alt="Firebase" width="24" height="24"/>
+
+- Version Control: 
+  <img src="https://img.icons8.com/fluent/48/000000/git.png" alt="Git" width="24" height="24"/>
+  <img src="https://img.icons8.com/fluent/48/000000/github.png" alt="GitHub" width="24" height="24"/>
+
+- Build Tools: 
+  <img src="https://img.icons8.com/color/48/000000/vite.png" alt="Vite" width="24" height="24"/>
+
+- Deployment: 
+  <img src="https://img.icons8.com/color/48/000000/netlify.png" alt="Netlify" width="24" height="24"/>
+  <img src="https://img.icons8.com/color/48/000000/vercel.png" alt="Vercel" width="24" height="24"/>
+
+- Operating System: 
+  <img src="https://img.icons8.com/color/48/000000/linux.png" alt="Linux" width="24" height="24"/>
+
+- Terminal: 
+  <img src="https://img.icons8.com/color/48/000000/console.png" alt="Command Line" width="24" height="24"/>
+
+- Design: 
+  <img src="https://img.icons8.com/color/48/000000/figma.png" alt="Figma" width="24" height="24"/>
+
+- Code Editor: 
+  <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" alt="VS Code" width="24" height="24"/>
+
 
 ## 🌱 I'm currently learning
 
