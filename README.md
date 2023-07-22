@@ -8,6 +8,10 @@
 
 [![SkillIcons](https://skillicons.dev/icons?i=linkedin,twitter,discord)](https://skillicons.dev)<br/>
 
+<a href="https://skillicons.dev/icons?i=linkedin,twitter,discord">
+  <img src="https://skillicons.dev/icons?i=linkedin,twitter,discord" alt="SkillIcons" width="35px" />
+</a>
+
 
 
 
