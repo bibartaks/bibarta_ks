@@ -22,39 +22,39 @@
 ## 🧑‍💻 Technologies & Tools I Use:
 
 - Frontend: 
-  <img src="https://img.icons8.com/color/48/000000/html-5--v1.png" alt="HTML" width="24" height="24"/>
-  <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS" width="24" height="24"/>
-  <img src="https://img.icons8.com/color/48/000000/sass.png" alt="SASS" width="24" height="24"/>
-  <img src="https://img.icons8.com/color/48/000000/material-ui.png" alt="Material UI" width="24" height="24"/>
-  <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" width="24" height="24"/>
-  <img src="https://img.icons8.com/color/48/000000/react-native.png" alt="React" width="24" height="24"/>
-  <img src="https://img.icons8.com/color/48/000000/react-native.png" alt="React Router" width="24" height="24"/>
+  <img src="https://img.icons8.com/color/48/000000/html-5--v1.png" alt="HTML" width="24" height="24"/> HTML
+  <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS" width="24" height="24"/> CSS
+  <img src="https://img.icons8.com/color/48/000000/sass.png" alt="SASS" width="24" height="24"/> SASS
+  <img src="https://img.icons8.com/color/48/000000/material-ui.png" alt="Material UI" width="24" height="24"/> Material UI
+  <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" width="24" height="24"/> JavaScript
+  <img src="https://img.icons8.com/color/48/000000/react-native.png" alt="React" width="24" height="24"/> React
+  <img src="https://img.icons8.com/color/48/000000/react-native.png" alt="React Router" width="24" height="24"/> React Router
 
 - Backend: 
-  <img src="https://img.icons8.com/color/48/000000/firebase.png" alt="Firebase" width="24" height="24"/>
+  <img src="https://img.icons8.com/color/48/000000/firebase.png" alt="Firebase" width="24" height="24"/> Firebase
 
 - Version Control: 
-  <img src="https://img.icons8.com/fluent/48/000000/git.png" alt="Git" width="24" height="24"/>
-  <img src="https://img.icons8.com/fluent/48/000000/github.png" alt="GitHub" width="24" height="24"/>
+  <img src="https://img.icons8.com/fluent/48/000000/git.png" alt="Git" width="24" height="24"/> Git
+  <img src="https://img.icons8.com/fluent/48/000000/github.png" alt="GitHub" width="24" height="24"/> GitHub
 
 - Build Tools: 
-  <img src="https://img.icons8.com/color/48/000000/vite.png" alt="Vite" width="24" height="24"/>
+  <img src="https://img.icons8.com/color/48/000000/vite.png" alt="Vite" width="24" height="24"/> Vite
 
 - Deployment: 
-  <img src="https://img.icons8.com/color/48/000000/netlify.png" alt="Netlify" width="24" height="24"/>
-  <img src="https://img.icons8.com/color/48/000000/vercel.png" alt="Vercel" width="24" height="24"/>
+  <img src="https://img.icons8.com/color/48/000000/netlify.png" alt="Netlify" width="24" height="24"/> Netlify
+  <img src="https://img.icons8.com/color/48/000000/vercel.png" alt="Vercel" width="24" height="24"/> Vercel
 
 - Operating System: 
-  <img src="https://img.icons8.com/color/48/000000/linux.png" alt="Linux" width="24" height="24"/>
+  <img src="https://img.icons8.com/color/48/000000/linux.png" alt="Linux" width="24" height="24"/> Linux
 
 - Terminal: 
-  <img src="https://img.icons8.com/color/48/000000/console.png" alt="Command Line" width="24" height="24"/>
+  <img src="https://img.icons8.com/color/48/000000/console.png" alt="Command Line" width="24" height="24"/> Command Line
 
 - Design: 
-  <img src="https://img.icons8.com/color/48/000000/figma.png" alt="Figma" width="24" height="24"/>
+  <img src="https://img.icons8.com/color/48/000000/figma.png" alt="Figma" width="24" height="24"/> Figma
 
 - Code Editor: 
-  <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" alt="VS Code" width="24" height="24"/>
+  <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" alt="VS Code" width="24" height="24"/> VS Code
 
 
 ## 🌱 I'm currently learning
