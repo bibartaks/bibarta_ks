@@ -5,12 +5,9 @@ A 14-year-old front-end developer. Starting at age 10 as a self-taught programme
 
 <br>
 
-
 <p align="left">
   <img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=bibartaks&background=0D1117&sideNums=FFFFFF&sideLabels=9A9A9A&currStreakNum=FB8C00&dates=6E6E6E" />
 </p>
-
-
 
 ## 🤝Connect with me:
 💬 If you have any questions/feedback, please do not hesitate to contact me!
@@ -22,7 +19,7 @@ A 14-year-old front-end developer. Starting at age 10 as a self-taught programme
 
 
 ## 🧑‍💻 Technologies & Tools I Use:
-  `HTML`, `CSS`, `SASS`, `Material Ui`, `JavaScript`, `React`, `React Router`, `Firebase`, `GIT`, `GITHUB`, `Vite`, `Vercel`, `Netlify`, `Linux`, `Terminal`, `VS Code`
+-  `HTML`, `CSS`, `SASS`, `Material Ui`, `JavaScript`, `React`, `React Router`, `Firebase`, `GIT`, `GITHUB`, `Vite`, `Vercel`, `Netlify`, `Linux`, `Terminal`, `VS Code`
 
 
 ## 🌱 I'm currently learning
