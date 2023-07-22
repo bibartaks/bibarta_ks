@@ -9,7 +9,8 @@
 [![SkillIcons](https://skillicons.dev/icons?i=linkedin,twitter,discord)](https://skillicons.dev)<br/>
 
 <h3>Skills:</h3>
-- ⚙️ My Skills: `HTML`
+- ⚙️ I use daily: `HTML`, `CSS`, `Javascript`, `Vue.js`, `Nuxt.js`, `Nodejs`, `Firebase`, `Mongodb`, `Postgres`, `GCP`,
+  `git` & `figma`
 
 
 - ⚡️ Fun fact about me: When I'm not coding, I enjoy playing cricket. It's a sport I love and find great joy in.
