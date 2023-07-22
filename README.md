@@ -34,4 +34,4 @@
 -  E-commerce site
 -  Modern website 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nasimuddin01&layout=compact)](https://github.com/yushi1007)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bradtraversy&layout=compact)](https://github.com/yushi1007)
