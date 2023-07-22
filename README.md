@@ -20,7 +20,7 @@
 
 
 ##  🧑‍💻 Technologies & Tools I Use:
-- `HTML`, `CSS`, `SASS`, `Material Ui`, `JavaScript`, `React`, `React Router`, `FireBase`, `GIT`, `Github`, `Vite`, `Netlify`, `Vercel`, `Linux`, `Terminal`, `Figma`
+- `HTML` , `CSS` , `SASS` , `Material Ui` , `JavaScript` , `React` , `React Router` , `FireBase` , `GIT` , `Github` , `Vite` , `Netlify` , `Vercel` , `Linux` , `Terminal` , `Figma`
 
 ## 🌱 I'm currently learning
 
