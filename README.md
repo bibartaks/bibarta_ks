@@ -25,8 +25,8 @@ A 14-year-old front-end developer. Starting at age 10 as a self-taught programme
 
 ## 🌱 I'm currently learning
 
-- `TypeScript`
-- `Nextjs`  
+- TypeScript
+- Nextjs
 
 ## 🔭 I'm currently working on
 
