@@ -5,7 +5,7 @@
 <p>A 14-year-old front-end developer. Starting at age 10 as a self-taught programmer, I quickly captured my father's attention, who enrolled me in a prestigious online platform for learning code. Later Scholarships from various world-leading developer platforms soon followed. My mother often says I had a keen interest in drawing & playing games. And so, she bought me a tablet to fuel my artistic spirit. Now, as a front-end developer, I enjoy combining artistic flair with technical expertise to create captivating and user-friendly interfaces. With the latest web technologies and a dedication to staying up-to-date with the ever-evolving industry trends, I can ensure my work remains at the forefront of innovation. Everyday I’ve been honing my skills and learning HTML, CSS, JavaScript, React, and other frameworks. Recently I've successfully completed another advanced frontend development course under Scrimba. I’m seeking a full-time role where I can help a company achieve its goals. Beyond coding, Cricket has been a cherished pastime for me since an early age. As a valuable team member, I have actively participated in various age-based domestic district cricket tournaments. Additionally, my love for animals shines through, as I find solace and joy in petting and caring for them. </p>
 
 <h3>Connect with me:</h3>
-[![SkillIcons](https://skillicons.dev/icons?i=js,ts,html,css,nodejs,py,tailwind,vue,nuxt,mongodb,prisma,docker,figma)](https://skillicons.dev)<br/>
+
 
 
 
@@ -23,3 +23,24 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bibartaks)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bibartaks&layout=compact)](https://github.com/yushi1007)
+
+
+
+
+# Hey There! 👋
+**I'm Thijs (he/they)** - I'm a fullstack developer, designer, moderator, and high school student based in the bay area. I'm interested in development, moderation, and building thriving online communities. I work on random projects in my free time, a lot involving Discord!
+
+[![SkillIcons](https://skillicons.dev/icons?i=js,ts,html,css,nodejs,py,tailwind,vue,nuxt,mongodb,prisma,docker,figma)](https://skillicons.dev)<br/>
+[^ These icons are one of my projects!](https://github.com/tandpfun/skill-icons)
+
+![status](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/status/276544649148235776?simple=true)
+![playing](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/playing/276544649148235776)
+![vscode](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/vscode/276544649148235776)
+[![spotify](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/spotify/276544649148235776)](https://dev.discordprofiles.me/openspotify/276544649148235776)
+
+<details>
+  <summary>Github Stats ⚡</summary>
+  
+  <a href="#">![Github stats](https://github-readme-stats.vercel.app/api?username=tandpfun&theme=blueberry&count_private=true&hide_border=true&line_height=20)</a>
+  <a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tandpfun&layout=compact&theme=blueberry&count_private=true&hide_border=true)</a>
+</details>
