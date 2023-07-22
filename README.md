@@ -1,8 +1,5 @@
 ![Hi, I'm](https://github.com/bibartaks/bibartaks/assets/106395132/c8d550ee-27e7-4efc-9345-7df67f747bb4)
-
-# Hi there I am Bibarta 👋
-
-#### I'm a passionate and driven 14-year-old front-end developer. With a natural talent for programming and a love for artistic expression, I create beautiful and user-friendly interfaces that seamlessly blend creativity and technical expertise.
+#### #I'm a passionate and driven 14-year-old front-end developer. With a natural talent for programming and a love for artistic expression, I create beautiful and user-friendly interfaces that seamlessly blend creativity and technical expertise.
 
 ### BIO
 - ⚙️ My Skills: `HTML`, `CSS`, `SASS`, `Material Ui`, `Javascript`, `React`, `Vite`, `Firebase`, `Git` & `Figma`
