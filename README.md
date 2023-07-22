@@ -1,4 +1,4 @@
-![Frontend Developer (11)](https://github.com/bibartaks/bibartaks/assets/106395132/b940ebf7-6a02-4aad-ba90-b1b0aad35c00)
+![A 14-year-old Frontend Developer Who loves to Transforming Design Dreams into Flawless Pixel-Perfect Realities](https://github.com/bibartaks/bibartaks/assets/106395132/ba1e38a1-0766-4690-9d27-fc698783f156)
 
 # Hi there I am Bibarta 👋
 
