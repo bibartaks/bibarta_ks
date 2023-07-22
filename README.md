@@ -19,7 +19,7 @@
   [![Email](https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
 
 
-##  🧑‍💻 Technologies & Tools:
+##  🧑‍💻 Technologies & Tools I Use:
 [![My Skills](https://skills.thijs.gg/icons?i=html,css,sass,mui,js,react,firebase,git,github,netlify,vercel,figma,linux,bash,vscode,vite&theme=light )](https://skills.thijs.gg)
 
 ## 🌱 I'm currently learning
