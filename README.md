@@ -19,7 +19,7 @@ A 14-year-old front-end developer. Starting at age 10 as a self-taught programme
 
 
 ## 🧑‍💻 Technologies & Tools I Use:
--  `HTML`, `CSS`, `SASS`, `Material Ui`, `JavaScript`, `React`, `React Router`, `Firebase`, `GIT`, `GITHUB`, `Vite`, `Vercel`, `Netlify`, `Linux`, `Terminal`, `VS Code`
+`HTML`, `CSS`, `SASS`, `Material Ui`, `JavaScript`, `React`, `React Router`, `Firebase`, `GIT`, `GITHUB`, `Vite`, `Vercel`, `Netlify`, `Linux`, `Terminal`, `VS Code`
 
 
 ## 🌱 I'm currently learning
