@@ -10,3 +10,5 @@
 - 📫 Feel free to contact me through my LinkedIn profile or connect with me using the link above. Let's collaborate and create amazing web experiences together!
 - ⚡️ Fun fact about me: When I'm not coding, I enjoy playing cricket. It's a sport I love and find great joy in.
 [![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=bibartaks)](https://github.com/yushi1007)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bibartaks)](https://github.com/anuraghazra/github-readme-stats)
