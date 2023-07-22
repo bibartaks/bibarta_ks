@@ -19,7 +19,7 @@
   [![Email](https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
 
 
-##  🧑‍💻 Skills:
+##  🧑‍💻 Technologies & Tools:
 [![My Skills](https://skills.thijs.gg/icons?i=html,css,sass,mui,js,react,firebase,git,github,netlify,vercel,figma,linux,bash,vscode,vite&theme=light )](https://skills.thijs.gg)
 
 ## 🌱 I'm currently learning
@@ -33,13 +33,3 @@
 -  Crypto website called Conify
 -  E-commerce site
 -  Modern website 
-
-### Technologies & Tools
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
