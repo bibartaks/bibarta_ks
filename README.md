@@ -33,8 +33,3 @@
 -  Crypto website called Conify
 -  E-commerce site
 -  Modern website 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bibartaks&layout=compact)](https://github.com/yushi1007)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bibartaks&langs_count=8)
-
