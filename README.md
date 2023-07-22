@@ -9,7 +9,9 @@
 [![SkillIcons](https://skillicons.dev/icons?i=linkedin,twitter,discord)](https://skillicons.dev)<br/>
 
 <h3>Skills:</h3>
-- ⚙️ My Skills: `HTML`, `CSS`, `SASS`, `Material Ui`, `Javascript`, `React`, `Vite`, `Firebase`, `Git`, `Canva`, `Linux`  & `Figma`
+- ⚙️ My Skills: `HTML`
+
+
 - ⚡️ Fun fact about me: When I'm not coding, I enjoy playing cricket. It's a sport I love and find great joy in.
 [![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=bibartaks)](https://github.com/yushi1007)
 
