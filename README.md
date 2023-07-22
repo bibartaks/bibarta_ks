@@ -1,3 +1,5 @@
+<img src=”Unitiled design (27).png" alt=”my banner”>
+
 # Hi there I am Bibarta 👋
 
 #### I'm a passionate and driven 14-year-old front-end developer. With a natural talent for programming and a love for artistic expression, I create beautiful and user-friendly interfaces that seamlessly blend creativity and technical expertise.
