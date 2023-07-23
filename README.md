@@ -9,7 +9,7 @@ A 14-year-old front-end developer. Starting at age 10 as a self-taught programme
   <img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=bibartaks&background=0D1117&sideNums=FFFFFF&sideLabels=9A9A9A&currStreakNum=FB8C00&dates=6E6E6E" />
 </p>
 
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C179%20hrs%2013%20mins-blue)
+![Code Time](https://img.shields.io/badge/Code%20Time-2,179%20hrs%2013%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1530-blue)
 
