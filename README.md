@@ -11,6 +11,9 @@ A 14-year-old front-end developer. Starting at age 10 as a self-taught programme
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bibartaks&exclude_repo=github-readme-stats,anuraghazra.github.io)
 
+[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs)](https://github.com/anuraghazra/github-readme-stats)
+
+
 
 
 
