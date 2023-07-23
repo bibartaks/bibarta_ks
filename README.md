@@ -11,6 +11,9 @@ A 14-year-old front-end developer. Starting at age 10 as a self-taught programme
 
 ![Code Time](http://img.shields.io/badge/Code%20Time-2%2C179%20hrs%2013%20mins-blue)
 
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1530-blue)
+
+
 
 ## 🤝Connect with me:
 💬 If you have any questions/feedback, please do not hesitate to contact me!
