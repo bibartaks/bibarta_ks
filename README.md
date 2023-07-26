@@ -10,7 +10,7 @@ A 14-year-old front-end developer. Starting at age 10 as a self-taught programme
 </p>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bibartaks)](https://github.com/anuraghazra/github-readme-stats)
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nasimuddin01)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 🤝Connect with me:
 💬 If you have any questions/feedback, please do not hesitate to contact me!
