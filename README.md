@@ -49,6 +49,3 @@ A 14-year-old front-end developer. Starting at age 10 as a self-taught programme
 ## 🔭 I'm currently working on
 
 -  My old projects
--  Crypto website called Conify
--  E-commerce site
-- A coffee shop website
