@@ -9,7 +9,6 @@ A 14-year-old front-end developer. Starting at age 10 as a self-taught programme
   <img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=bibartaks&background=black&sideNums=FFFFFF&sideLabels=9A9A9A&currStreakNum=FB8C00&dates=6E6E6E" />
 </p>
 
-![](https://komarev.com/ghpvc/?username=bibartaks)
 
 
 ## 🤝Connect with me:
