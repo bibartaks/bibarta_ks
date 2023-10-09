@@ -18,7 +18,6 @@ company's success. I have passion and love for cricket and animals.
 💬 If you have any questions/feedback, please do not hesitate to contact me!
   
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bibartaks/)
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/bibartaks)
 [![Email](https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-bibartaks@gmail.com)
 
 
@@ -45,10 +44,3 @@ company's success. I have passion and love for cricket and animals.
 ![Terminal](https://img.shields.io/badge/Terminal-4D4D4D?style=for-the-badge&logo=windows-terminal&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-
-## 🌱 I'm currently learning
-
-
-## 🔭 I'm currently working on
-
--  My old projects
