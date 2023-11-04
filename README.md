@@ -49,3 +49,4 @@ company's success. I have passion and love for cricket and animals.
 ![Terminal](https://img.shields.io/badge/Terminal-4D4D4D?style=for-the-badge&logo=windows-terminal&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
+![](https://komarev.com/ghpvc/?username=bibartaks)
