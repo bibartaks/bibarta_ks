@@ -1,13 +1,7 @@
 ![Hi, I'm (1)](https://github.com/bibartaks/bibartaks/assets/106395132/f06c7370-cdb6-4cb4-83a6-356060704dd2)
 
 ## 🧑‍💻 About Me
-I'm Bibarta, a 14-year-old front-end developer with a passion for creating
-captivating interfaces. Starting at age 10, I taught myself programming and earned
-scholarships from leading developer platforms. I enjoy combining artistry with
-
-technical expertise to build user-friendly experiences. I am proficient in HTML, CSS,
-JavaScript, React, and more. Now I am seeking a full-time role to contribute to a
-company's success. I have passion and love for cricket and animals.
+Hi there! I'm Bibarta, a 14-year-old full-stack developer. Starting at age 10 as a self-taught programmer, I quickly captured my father's attention, who enrolled me in a prestigious online platform for learning code. Later, Scholarships from various world-leading developer platforms soon followed. My mother often says I had a keen interest in drawing & playing games. And so, she bought me a tablet to fuel my artistic spirit. Now, as a front-end developer, I enjoy combining artistic flair with technical expertise to create captivating and user-friendly interfaces. With the latest web technologies and a dedication to staying up-to-date with the ever-evolving industry trends, I can ensure my work remains at the forefront of innovation. Every day I've been honing my skills and learning JavaScript, TypeScript, React, TailwindCSS, Node.js, Firebase, MongoDB, and other frameworks. I'm seeking a full-time role where I can help a company achieve their goals. Beyond coding, Cricket has been a cherished pastime for me since an early age. As a valuable team player, I have actively participated in various age-based domestic district cricket tournaments. Additionally, my love for animals shines through, as I find solace and joy in petting and caring for them.
 
 <br>
 
