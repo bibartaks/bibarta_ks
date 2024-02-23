@@ -11,3 +11,5 @@
 - 💬 Ping me about **JavaScript**, **React.js**, **Next.js**, **Figma**, **Designing**
 - 📫 Reach me: [twitter.com/bibartaks](https://x.com/bibartaks), [linkedin.com/in/bibartaks](https://linkedin.com/in/bibartaks)
 - ⚡️ Fun fact: I started coding at the age of 10 and I'm a huge fan of Cricket.
+
+![](https://komarev.com/ghpvc/?username=bibartaks)
