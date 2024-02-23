@@ -12,4 +12,12 @@
 - 📫 Reach me: [twitter.com/bibartaks](https://x.com/bibartaks), [linkedin.com/in/bibartaks](https://linkedin.com/in/bibartaks)
 - ⚡️ Fun fact: I started coding at the age of 10 and I'm a huge fan of Cricket.
 
-![](https://komarev.com/ghpvc/?username=bibartaks)
+
+
+
+
+
+
+<a href="https://github.com/antonkomarev/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=bibartaks&style=for-the-badge">
+</a>
