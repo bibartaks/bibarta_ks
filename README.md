@@ -1,6 +1,6 @@
 # Hi there, I am Bibarta 👋
 
-### I'm a Full-Stack Developer working remotely from Bangladesh
+### I'm a Full-Stack Developer working remotely 
 
 ### BIO
 
